@@ -1,3 +1,3 @@
 # Hemingway-Editor-IEEE-Internship
-#Contributors
+# Contributors
 Niranjan Hebli
