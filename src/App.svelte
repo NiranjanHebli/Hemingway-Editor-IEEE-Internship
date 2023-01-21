@@ -53,7 +53,7 @@
   border-radius: 8px;
 }
 
-	</style>
+</style>
 <title> Hemingway Clone</title>
 <div>
   <h1> Hemingway Editor Clone</h1>
