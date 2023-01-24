@@ -1,4 +1,6 @@
+## Introduction 
 
+The Hemingway App is an editor that highlights and corrects grammar, fluency, and sentence structure in order to help your writing read and look better. It’s a self-editing tool that allows you to write more concisely.
 ## Get started
 
 ```bash
