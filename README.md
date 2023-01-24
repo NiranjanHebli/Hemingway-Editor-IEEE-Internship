@@ -5,6 +5,7 @@
 ---
 
 # svelte app
+![Screenshot 2023-01-24 220752](https://user-images.githubusercontent.com/85605062/214353831-d72d5795-4f23-4ecb-9344-e98b06b17fa6.png)
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
