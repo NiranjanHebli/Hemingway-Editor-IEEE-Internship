@@ -37,7 +37,7 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 ```js
 "start": "sirv public --single"
 ```
-##Demo
+## Demo
 
 ![WhatsApp Image 2023-01-24 at 10 14 50 PM (1)](https://user-images.githubusercontent.com/84934990/214354983-2c7953f9-d57a-487f-9150-98bd51609864.jpeg)
 
