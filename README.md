@@ -11,6 +11,10 @@ The Hemingway App is an editor that highlights and corrects grammar, fluency, an
 https://codinggaurav7.github.io/Hemingway-Editor-IEEE-Internship/                                               
 
 
+## Figma Design :
+https://www.figma.com/file/MAOeo1DRvUq3KazCIILq5w/Untitled?node-id=0%3A1&t=pY1TFdrW7M2Qm9wN-1
+
+
 ## Get started
 
 ```bash
