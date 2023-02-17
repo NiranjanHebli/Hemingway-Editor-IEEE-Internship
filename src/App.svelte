@@ -80,7 +80,7 @@
 You can utilize a shorter word in place of a purple one. Mouse over them for hints.
 Adverbs and weakening phrases are helpfully shown in blue. Get rid of them and pick words with force, perhaps.
 Phrases in green have been marked to show passive voice.
-You can format your text with the toolbar.
+You can format your text with the toolbar .
 Paste in something you're working on and edit away. Or, click the Write button and compose something new.`;
   inputArea.value = text;
 
