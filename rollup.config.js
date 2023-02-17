@@ -62,7 +62,7 @@ export default {
 		// the bundle has been generated
 		!production && serve(),
 
-		// Watch the `public` directory and refresh the
+		// Watch the `public` directory and refresh the 
 		// browser on changes when not in production
 		!production && livereload('public'),
 
