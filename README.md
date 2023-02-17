@@ -1,4 +1,6 @@
-## Introduction 
+## Introduction
+INTERNSHIP : IEEE Internship(Alhansat Solutions)
+Duration: 2 Months (Dec 2022 to Feb 2023)
 
 The Hemingway App is an editor that highlights and corrects grammar, fluency, and sentence structure in order to help your writing read and look better. It’s a self-editing tool that allows you to write more concisely.
 
