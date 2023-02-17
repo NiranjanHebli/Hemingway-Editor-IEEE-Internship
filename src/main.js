@@ -8,4 +8,4 @@ const app = new App({
 	}
 });
 
-export default apps;
+export default app;
