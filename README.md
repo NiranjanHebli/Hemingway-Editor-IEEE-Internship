@@ -1,4 +1,7 @@
-## Introduction 
+## Introduction
+INTERNSHIP : FULL STACK DEVELOPER INTERSHIP (IEEE BOMBAY SECTION & Alhansat Solutions)
+
+Duration: 2 Months (Dec 2022 to Feb 2023)
 
 The Hemingway App is an editor that highlights and corrects grammar, fluency, and sentence structure in order to help your writing read and look better. It’s a self-editing tool that allows you to write more concisely.
 
@@ -89,4 +92,6 @@ surge public my-project.surge.sh
 [Yash Adake](https://github.com/YashAdake)                                                   
 [Ann Mariya Roy](https://github.com/Ann-M-R)                                                                                                                           
 [Gaurav Gupta](https://github.com/codinggaurav7)                                                                                                                      
-[Pooja](https://github.com/poojach200)
+[Pooja](https://github.com/poojach200)  
+[Manish Kumar](https://github.com/manishky499)
+   
